@@ -1,0 +1,15 @@
+{
+    "name": "php/hw",
+    "autoload": {
+        "psr-4": {
+            "Hw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey",
+            "email": "Alexey@mail.ru"
+        }
+    ],
+    "require": {}
+}
